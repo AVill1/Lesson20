@@ -36,6 +36,7 @@ class Counter:
     # state = state.deleter(del_state)
 
 counter1 = Counter()
+
 counter1.state = 10
 print(counter1.state)
 # del counter1.state
